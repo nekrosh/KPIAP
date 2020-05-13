@@ -4,8 +4,8 @@
 .data
 ;**************************EQU*************************************************************************************         
 max_number_of_digits_in_number EQU 5
-number_of_lines EQU 2
-number_of_columns EQU 2 
+number_of_lines EQU 5
+number_of_columns EQU 6 
 cr EQU 0Ah
 lf EQU 0Dh
 ASCII_zero EQU 30h
